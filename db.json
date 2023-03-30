@@ -75,5 +75,32 @@
       			"installed" : "345",
      			"img" : "https://i.imgur.com/S5oK3Oe.png"
 		}
-	]
+	],
+	
+"articles" : [
+		{
+		    "id" : 1,
+		    "publishedAt" : "2023-03-30",
+		    "author" : "news@appleinsider.com (Wesley Hilliard)",
+		    "title" : "Netflix Games may come to TVs, use iPhone as a controller",
+		    "description" : "A report suggests Netflix is working on a feature that will bring its games to smart TV platforms and could enable players to use their iPhones as a controller.Netflix GamesNetflix Games launched in 2021 with little fanfare since. The selection offers a varie…",
+		    "urlImage" : "https://photos5.appleinsider.com/gallery/53725-108024-Netflix-Games-xl.jpg"
+		},
+		{
+		    "id" : 2,
+		    "publishedAt" : "2023-03-30",
+		    "author" : "Filipe Espósito",
+		    "title" :"AutoCAD and Autodesk Maya for macOS now runs natively on Apple Silicon Macs",
+		    "description" : "It’s been almost three years since Apple announced the transition from Intel Macs to Apple Silicon. Since then, many developers have updated their apps to take advantage of the new M1 and M2 chips, but there are still many more apps that need to be updated.",
+		    "urlImage" : "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/AutoCAD-for-Mac-2024-Feature.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+		},
+		{
+		    "id" : 2,
+		    "publishedAt" : "2023-03-30",
+		    "author" : "Andy Meek",
+		    "title" : "Ted Lasso is still the best show on Apple TV+, but I get why some of you are over it",
+		    "description" : "If you put stock in such things, the third and final season of Ted Lasso on Apple TV+ (which we’re three episodes into now) is …\nThe post Ted Lasso is still the best show on Apple TV+, but I get why some of you are over it appeared first on BGR.",
+		    "urlImage" : "https://bgr.com/wp-content/uploads/2023/03/rsz_ted_lasso_photo_030104.jpg?quality=82&strip=all"
+		}
+    ]
 }
