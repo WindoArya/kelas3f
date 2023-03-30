@@ -33,21 +33,21 @@
       			"installed" : "1234",
       			"img" : "https://i.imgur.com/lXEUCY8.png"
 		},
-    {
+    		{
 			"id" : 5,
 			"name" : "Atlassian",
-      "type" : "Project management",
+      			"type" : "Project management",
 			"desc" : "Developing products for developers,project managers and architects.",
-      "installed" : "345",
-      "img" : "https://i.imgur.com/S2In5pz.png"
+      			"installed" : "345",
+      			"img" : "https://i.imgur.com/S2In5pz.png"
 		},
-    {
+    		{
 			"id" : 6,
 			"name" : "Salesforce",
-      "type" : "Project management",
+      			"type" : "Project management",
 			"desc" : "Developing products for developers,project managers and architects.",
-      "installed" : "345",
-      "img" : "https://i.imgur.com/S5oK3Oe.png"
+      			"installed" : "345",
+     			"img" : "https://i.imgur.com/S5oK3Oe.png"
 		},
 	],
 }
