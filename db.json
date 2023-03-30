@@ -23,5 +23,57 @@
 		{"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
 		{"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
 		{"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
+	],
+	
+"applist" : 
+	[
+		{
+			"id" : 1,
+			"name" : "Stripe",
+      			"type" : "Payment Services",
+			"desc" : "Get more context on your users with stripe data inside our platform.",
+      			"installed" : "172",
+      			"img" : "https://i.imgur.com/ccMhxvC.png"
+		},
+		{
+			"id" : 2,
+			"name" : "Mailchimp",
+      			"type" : "Project Management",
+			"desc" : "Capture and sync subscribers from your mailchimp platform to ours with ease.",
+			"installed" : "1234",
+			"img" : "https://i.imgur.com/IpKQiNu.png"
+		},
+    		{
+			"id" : 3,
+			"name" : "Dropbox",
+      			"type" : "File Management",
+			"desc" : "Use dropbox to sync your photos to our platform and share it with others.",
+      			"installed" : "1234",
+      			"img" : "https://i.imgur.com/42SqVZd.png"
+		},
+    		{
+			"id" : 4,
+			"name" : "Shopify",
+      			"type" : "Ecommerce",
+			"desc" : "Sell you items with ease with having any website with our free platform",
+      			"installed" : "1234",
+      			"img" : "https://i.imgur.com/lXEUCY8.png"
+		},
+    		{
+			"id" : 5,
+			"name" : "Atlassian",
+      			"type" : "Project management",
+			"desc" : "Developing products for developers,project managers and architects.",
+      			"installed" : "345",
+      			"img" : "https://i.imgur.com/S2In5pz.png"
+		},
+    		{
+			"id" : 6,
+			"name" : "Salesforce",
+      			"type" : "Project management",
+			"desc" : "Developing products for developers,project managers and architects.",
+      			"installed" : "345",
+     			"img" : "https://i.imgur.com/S5oK3Oe.png"
+		}
 	]
 }
