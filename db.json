@@ -33,7 +33,7 @@
       			"type" : "Payment Services",
 			"desc" : "Get more context on your users with stripe data inside our platform.",
       			"installed" : "172",
-      			"img" : "https://i.imgur.com/ccMhxvC.png"
+      			"img" : https://i.imgur.com/ccMhxvC.png
 		},
 		{
 			"id" : 2,
@@ -41,7 +41,7 @@
       			"type" : "Project Management",
 			"desc" : "Capture and sync subscribers from your mailchimp platform to ours with ease.",
 			"installed" : "1234",
-			"img" : "https://i.imgur.com/IpKQiNu.png"
+			"img" : https://i.imgur.com/IpKQiNu.png
 		},
     		{
 			"id" : 3,
@@ -49,7 +49,7 @@
       			"type" : "File Management",
 			"desc" : "Use dropbox to sync your photos to our platform and share it with others.",
       			"installed" : "1234",
-      			"img" : "https://i.imgur.com/42SqVZd.png"
+      			"img" : https://i.imgur.com/42SqVZd.png
 		},
     		{
 			"id" : 4,
@@ -57,7 +57,7 @@
       			"type" : "Ecommerce",
 			"desc" : "Sell you items with ease with having any website with our free platform",
       			"installed" : "1234",
-      			"img" : "https://i.imgur.com/lXEUCY8.png"
+      			"img" : https://i.imgur.com/lXEUCY8.png
 		},
     		{
 			"id" : 5,
@@ -65,7 +65,7 @@
       			"type" : "Project management",
 			"desc" : "Developing products for developers,project managers and architects.",
       			"installed" : "345",
-      			"img" : "https://i.imgur.com/S2In5pz.png"
+      			"img" : https://i.imgur.com/S2In5pz.png
 		},
     		{
 			"id" : 6,
@@ -73,7 +73,7 @@
       			"type" : "Project management",
 			"desc" : "Developing products for developers,project managers and architects.",
       			"installed" : "345",
-     			"img" : "https://i.imgur.com/S5oK3Oe.png"
+     			"img" : https://i.imgur.com/S5oK3Oe.png
 		}
 	]
 }
